@@ -1,2 +1,2 @@
 # vinrec
-An eccomerce website that sells vinyl records.
+An ecommerce website that sells vinyl records.
